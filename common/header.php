@@ -12,7 +12,7 @@
                         </a>
                         <nav id="nav">
                               <ul>
-                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="#">Home</a></li>
                                     <li><a href="#">What we offer</a></li>
                                     <li><a href="#">Blogs</a></li>
                                     <li><a href="#">Contact us</a></li>
